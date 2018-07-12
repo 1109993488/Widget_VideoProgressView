@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VideoProgressView">
+        <attr name="vpv_backgroundColor" format="color"/>
+        <attr name="vpv_progressColor" format="color"/>
+        <attr name="vpv_circleRadius" format="dimension"/>
+        <attr name="vpv_circleWidth" format="dimension"/>
+        <attr name="vpv_circleProgressWidth" format="dimension"/>
+    </declare-styleable>
+</resources>
